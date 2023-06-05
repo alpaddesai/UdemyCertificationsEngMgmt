@@ -1,4 +1,4 @@
-# Udemy Certifications EngMgmt
+# Udemy Certifications Engineering Management
 
 ![image](EthicsandExcellence.png)
 
